@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../websites/bms web backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ChatBot"
+	}
+}
